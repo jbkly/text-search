@@ -1,2 +1,4 @@
-# Text-Highlight
-Highlight text on the fly
+# Text-Search
+Style text on the fly
+
+currently powered by regex
