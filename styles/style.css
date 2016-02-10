@@ -1,0 +1,14 @@
+.two-col {
+  display: inline-block;
+  width: 49.5%;
+}
+
+#enter-text {
+  display: block;
+  width: 100%;
+  margin: 0 0 1rem;
+}
+
+.search-area {
+  margin: 0 0 1rem;
+}
